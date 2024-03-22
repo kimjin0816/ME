@@ -31,5 +31,6 @@
 ![](README_image/레시피완성도.png)
 
 ## UI적인 인터렉션 요소(레시피의 완성도를 보여준다거나 레시피가 나타났을 때 효과 등)을 구현
-![](README_image/UI_1.png)
+![](README_image/UI.gif)
+![](README_image/재료등장.gif)
 
